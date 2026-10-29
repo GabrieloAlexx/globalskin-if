@@ -271,7 +271,7 @@ export default function Home() {
               </div>
             </div>
             <div className="testimonial-box-content" style={{
-                backgroundImage: "url(include/images/testimonial/testimonial-img3.jpg)"
+                backgroundImage: "url(include/images/testimonial/testimonial-img4.jpg)"
               }}>
               <div className="testimonial-icon">“</div>
               <h3>They did it again!</h3>
