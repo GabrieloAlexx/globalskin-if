@@ -271,7 +271,7 @@ export default function Home() {
               </div>
             </div>
             <div className="testimonial-box-content" style={{
-                backgroundImage: "url(include/images/testimonial/testimonial-img4.png)"
+                backgroundImage: "url(include/images/testimonial/testimonial-img3.jpg)"
               }}>
               <div className="testimonial-icon">“</div>
               <h3>They did it again!</h3>
@@ -281,7 +281,7 @@ export default function Home() {
                   delivers again! GlobalSkin is perfect for beginners and you’ll
                   be pleasantly surprised at how quickly you can get started
                 </p>
-                <h6>Jonathan Plesel</h6>
+                <h6>Marcus Reinholt</h6>
               </div>
             </div>
           </div>
